@@ -1,4 +1,5 @@
-const { Component } = React;
+const root = document.querySelector('#root');
+
 class App extends React.Component {
     constructor() {
         super();
